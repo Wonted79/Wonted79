@@ -5,10 +5,11 @@ Contact : lgs0004237@naver.com
 ## ✨ Career & Education
 - Secern AI (2026. 01 ~ )
   - QA/QC 
-- KT AIVLE School AI development (2024. 09 ~ 2025. 02)
-  - 7th Mobile Track  
+- KT AIVLE School (2024. 09 ~ 2025. 02)
+  - 6th AI development Track  
 - Gyeongsang National University (2019. 03 ~ 2025. 08)
-  - Computer Science and Engineering
+  - Department of Aerospace and Software Engineering
+  - Smart Manufacturing ICT (Double Major)
 
 ## 🤔 Interested in
 - Backend Development
